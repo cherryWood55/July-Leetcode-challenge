@@ -13,3 +13,6 @@ Solutions to July Leetcode 31 days challenge problems.
 10. Flatten a Multilevel Doubly Linked List
 11. Subsets
 12. Reverse Bits
+13. Same Tree
+14. Angle between Hands of a Clock
+15. Reverse Words in a String

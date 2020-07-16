@@ -1,3 +1,5 @@
+//Problem link : https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/
+
 #include <iostream>
 using namespace std;
 class Hamming {
@@ -31,4 +33,7 @@ int main()
     cout << c << endl;
     return 0;
 }
+
+//Time complexity : O(n), where n = maximum number of bits in either a or b
+
 

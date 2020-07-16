@@ -1,3 +1,5 @@
+//Problem link : https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/
+
 //Prison cells after N days
 #include <bits/stdc++.h>
 using namespace std;
@@ -47,3 +49,5 @@ int main()
     cout << "]" << endl;
     return 0;
 }
+
+//Time Compexity : O(n) where n is the size of the  input vector

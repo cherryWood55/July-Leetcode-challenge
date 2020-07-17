@@ -24,3 +24,5 @@ int main()
     cout << obj.arrangeCoins(5) << endl;
     return 0;
 }
+
+//Time compexity : O(n)

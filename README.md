@@ -16,3 +16,5 @@ Solutions to July Leetcode 31 days challenge problems.
 13. Same Tree
 14. Angle between Hands of a Clock
 15. Reverse Words in a String
+16. Pow(x,n)
+17. Top K frequent elements
